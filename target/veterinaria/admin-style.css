@@ -1,0 +1,70 @@
+/* admin-style.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Encabezado */
+header {
+    background-color: #343a40;
+    color: white;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 { margin: 0; font-size: 1.5rem; }
+header a { color: #ccc; text-decoration: none; font-size: 0.9rem; }
+header a:hover { color: white; }
+
+/* Contenedor Principal */
+.container {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.05);
+}
+
+/* Tablas Bonitas */
+.admin-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.admin-table th, .admin-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.admin-table th {
+    background-color: #007bff; /* Azul corporativo */
+    color: white;
+    font-weight: 600;
+}
+
+.admin-table tr:hover { background-color: #f1f1f1; }
+
+/* Botones de Acción */
+.btn {
+    padding: 6px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: bold;
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.btn-edit { background-color: #ffc107; color: #333; } /* Amarillo */
+.btn-delete { background-color: #dc3545; color: white; } /* Rojo */
+.btn-back { background-color: #6c757d; color: white; padding: 10px 20px;}
+
+.btn:hover { opacity: 0.8; }

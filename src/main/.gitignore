@@ -1,0 +1,13 @@
+# Archivos compilados y empaquetados
+target/
+*.war
+*.class
+
+# Archivos de log
+*.log
+
+# Configuraciones de IDE (Opcional, pero recomendado para que no se suba tu config personal)
+.vscode/
+.idea/
+*.iml
+.DS_Store 

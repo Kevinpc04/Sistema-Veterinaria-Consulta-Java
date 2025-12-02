@@ -1,0 +1,216 @@
+ .u-section-1 {
+  background-image: url("images/ChatGPTImage25nov202509_03_46.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 498px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 840px;
+  height: 568px;
+  margin: -45px auto 0 -194px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.75rem;
+  margin: -477px -19px 60px 503px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 411px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 34px;
+    margin-left: 303px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 315px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 83px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 33px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 365px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -274px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 230px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -139px;
+  }
+} .u-section-2 {
+  background-image: url("images/ChatGPTImage25nov202509_03_46.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 556px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 711px;
+  height: 438px;
+  margin: -12px -98px 0 auto;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 400;
+  margin: -381px 605px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 458px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 405px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 351px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 185px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 158px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 333px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -276px;
+    margin-right: 5px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 35px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 210px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -153px;
+    margin-right: 0;
+  }
+} .u-section-3 {
+  background-image: url("images/ChatGPTImage25nov202509_03_46.png");
+  background-position: 50% 50%;
+  min-height: 555px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 674px;
+  height: 697px;
+  margin: -182px auto 0 0;
+}
+
+.u-section-3 .u-text-1 {
+  margin: -451px calc(((100% - 1140px) / 2)) 0 calc(((100% - 1140px) / 2)  + 691px);
+}
+
+.u-section-3 .u-btn-1 {
+  --radius: 50px;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  background-image: linear-gradient(#2cccc4, white);
+  font-weight: 700;
+  margin: 40px auto 27px;
+  padding: 17px 46px 18px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    min-height: 458px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: calc(((100% - 940px) / 2));
+    margin-left: calc(((100% - 940px) / 2) + 491px);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-3 {
+    min-height: 351px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: calc(((100% - 720px) / 2));
+    margin-left: calc(((100% - 720px) / 2) + 271px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-3 {
+    min-height: 124px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 540px;
+    height: 558px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -312px;
+    margin-right: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 540px) / 2) + 91px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 351px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -105px;
+    margin-right: calc(((100% - 340px) / 2));
+    margin-left: calc(((100% - 340px) / 2));
+  }
+}
